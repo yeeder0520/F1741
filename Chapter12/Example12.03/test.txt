@@ -1,0 +1,2 @@
+使用 Write() 寫入
+使用 Writestring() 寫入
